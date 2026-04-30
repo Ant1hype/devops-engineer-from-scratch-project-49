@@ -1,0 +1,10 @@
+# Python environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+
+# Project specifics
+*.log
