@@ -1,5 +1,5 @@
-def greet():
-    print("Welcome to the Brain Games!")
+from brain_games.games.cli import welcome_user as greet
+
 
 def main():
     greet()
